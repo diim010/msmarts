@@ -1,2 +1,4 @@
-fonts\
-\image\
+ $ cat .gitignore
+    # exclude everything except directory foo/bar
+    /fonts
+   /image
